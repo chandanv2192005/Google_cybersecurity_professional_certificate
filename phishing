@@ -1,0 +1,11 @@
+Understanding Phishing
+
+Before you begin this challenge, it is essential to distinguish between a phishing tactic (the psychological trick used) and a technical indicator (the verifiable, unforgeable flaw).
+
+Phishing Tactics (Social Engineering): These are psychological tricks designed to manipulate you. They include creating a sense of urgency ("Act now!"), creating fear ("Your account is locked!"), or leveraging authority (impersonating a manager).
+
+Phishing Indicators (Red Flags): These are the verifiable signs that the message is malicious.
+
+Technical Indicators: The most definitive flags. These include incorrect sender email domains (e.g., bank-support.co instead of bank.com) or malicious link addresses that point to a different website than the one listed (e.g., the visible text says bank.com, but the link points to scam.net).
+
+Content Indicators: Less definitive, but highly suspicious. These include poor grammar, misspellings, generic greetings, or unusual requests (like buying gift cards).
