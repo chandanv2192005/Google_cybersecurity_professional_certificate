@@ -9,3 +9,4 @@ Phishing Indicators (Red Flags): These are the verifiable signs that the message
 Technical Indicators: The most definitive flags. These include incorrect sender email domains (e.g., bank-support.co instead of bank.com) or malicious link addresses that point to a different website than the one listed (e.g., the visible text says bank.com, but the link points to scam.net).
 
 Content Indicators: Less definitive, but highly suspicious. These include poor grammar, misspellings, generic greetings, or unusual requests (like buying gift cards). 
+ 
