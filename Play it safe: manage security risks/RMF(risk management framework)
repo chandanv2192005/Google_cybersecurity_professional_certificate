@@ -1,0 +1,9 @@
+NIST Risk Management Framework (RMF) Overview
+
+The RMF provides a structured approach for security professionals to manage risks, threats, and vulnerabilities.
+Familiarity with this framework is important for entry-level analysts, even if they don't engage in all steps.
+The Seven Steps of the RMF
+
+Prepare and Categorize: These initial steps involve activities to manage security and privacy risks before a breach, and developing risk management processes by considering the impact on confidentiality, integrity, and availability.
+Select and Implement: This involves choosing and documenting controls to protect an organization, such as maintaining a playbook, and then putting security and privacy plans into action to minimize ongoing risks.
+Assess, Authorize, and Monitor: These final steps focus on determining if controls are correctly implemented, being accountable for security and privacy risks, and continuously monitoring systems to ensure they support the organization's security goals.
