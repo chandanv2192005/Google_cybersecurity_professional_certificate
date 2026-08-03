@@ -1,0 +1,10 @@
+the Index is a colossal, centralized database containing hundreds of billions of web pages organized by keywords, topics, and code attributes.
+
+Once a crawler fetches a web page, the search engine doesn't just store the whole document raw—it indexes it.
+
+How Indexing Works:
+Parsing: The search engine strips away formatting and breaks down the page's text into key concepts and keywords.
+
+Categorization: It maps words to pages (known as an inverted index). For example, it notes: "The word 'cybersecurity' appears on Page A, Page B, and Page C."
+
+Storage: The processed page is saved in the index so that when a user performs a search, results can be fetched in milliseconds rather than searching the live web in real time.
