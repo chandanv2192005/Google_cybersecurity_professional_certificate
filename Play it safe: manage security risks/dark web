@@ -1,0 +1,14 @@
+1. Non-Standard Web Domains (.onion)
+Instead of standard domain extensions (.com, .org) resolved by public DNS servers, dark web sites use custom cryptographic addresses (e.g., [http://expyuz4...onion](http://expyuz4...onion)). These addresses can only be routed through the Tor network.
+
+2. Onion Routing (Multi-Hop Encryption)
+When accessing a .onion site, your connection is wrapped in multiple layers of encryption and bounced through three randomized volunteer servers called nodes:
+
+Guard/Entry Node: Sees your real IP address, but cannot see where you are going or what data you are sending.
+
+Middle Node: Knows only the IP addresses of the node before it and after it; holds no identity or traffic details.
+
+Exit/Rendezvous Node: Delivers traffic to the final destination without ever knowing your original IP address.
+
+3. Cryptocurrency Transactions
+Because traditional banking involves identity verification (KYC), transactions on dark web marketplaces rely heavily on privacy-focused cryptocurrencies (such as Monero or Bitcoin) to maintain transaction anonymity.
