@@ -1,0 +1,15 @@
+The Surface Web (also known as the Visible Web, Indexed Web, or Lightnet) is the portion of the World Wide Web that is public, unencrypted, and easily accessible to anyone using standard web browsers and traditional search engines.
+
+If you imagine the entire internet as an ocean or an iceberg, the Surface Web is just the top tip rising above the water—making up only about 4% to 5% of the total web content online.
+
+What Makes the Surface Web Work?
+Three main technical characteristics define the Surface Web:
+
+1. Web Search Indexing
+Search engine crawlers (like Googlebot or Bingbot) travel from link to link across the web, downloading pages, reading their content, and recording them in massive databases called search indexes. If a search engine can crawl and index a page, it is part of the Surface Web.
+
+2. Standard Web Browsers
+Surface web pages are designed to be rendered using standard web protocols (http:// and https://) and standard domain names (.com, .org, .edu, .gov). You don't need special software or proxy configurations to view them—just Google Chrome, Safari, Firefox, or Edge.
+
+3. Public Accessibility
+Surface web pages do not require special authorization, user credentials, or passwords to view. Anyone with an internet connection can type in the URL or click a search result to read the content.
