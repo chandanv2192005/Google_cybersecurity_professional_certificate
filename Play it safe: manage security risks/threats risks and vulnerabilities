@@ -1,0 +1,12 @@
+Understanding Assets, Threats, Risks, and Vulnerabilities
+
+Assets are items of value to an organization, including physical spaces, computers, customer data (PII), and intellectual property.
+A threat is any circumstance or event that can negatively impact assets, such as social engineering attacks like phishing, which exploit human error to gain private information.
+Differentiating Risks and Their Levels
+
+A risk is the likelihood of a threat occurring and impacting the confidentiality, integrity, or availability of an asset. An example is the lack of backup protocols for stored information.
+Organizations categorize risks as low, medium, or high based on potential threats and asset value. High-risk assets include information protected by regulations, like SPII, PII, or intellectual property, which could severely impact an organization if compromised.
+Identifying and Mitigating Vulnerabilities
+
+A vulnerability is a weakness that a threat can exploit, such as outdated software, weak passwords, or unprotected confidential data. Both a vulnerability and a threat must be present for a risk to exist.
+People can also be vulnerabilities, and educating employees on security awareness, like identifying phishing emails, and implementing physical security measures, such as access cards, are crucial steps in mitigating risks.
