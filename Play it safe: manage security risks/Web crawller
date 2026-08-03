@@ -1,0 +1,8 @@
+A web crawler (e.g., Googlebot) is an automated software program designed to constantly discover new and updated content across the World Wide Web.
+
+How a Crawler Works:
+Follows Links: It starts with a known list of web addresses (URLs). When it visits a page, it extracts all the hyperlinks on that page and adds those new URLs to its "to-visit" list.
+
+Downloads Content: It reads the HTML code, text, images, and metadata of the page.
+
+Passes Data Along: It sends that downloaded content back to the search engine's servers to be processed.
