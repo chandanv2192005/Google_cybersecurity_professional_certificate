@@ -1,0 +1,11 @@
+Five Core Functions of NIST CSF
+
+Identify: This function involves managing cybersecurity risk in relation to an organization's people and assets, such as monitoring systems for potential security issues.
+Protect: This function focuses on implementing strategies like policies, procedures, training, and tools to mitigate cybersecurity threats, often by studying historical data and improving existing measures.
+Detecting and Responding to Incidents
+
+Detect: This function aims to identify potential security incidents and enhance monitoring capabilities to speed up detection, for example, by reviewing security tool setups to ensure proper risk flagging and alerting.
+Respond: This function ensures that correct procedures are followed to contain, neutralize, and analyze security incidents, and to implement improvements to the security process.
+Recovering from Incidents
+
+Recover: This function is about restoring affected systems to normal operation after an incident, which might involve working with a security team to restore data and assets.
