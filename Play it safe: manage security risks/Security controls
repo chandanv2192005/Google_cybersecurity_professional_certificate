@@ -1,0 +1,5 @@
+Types of Security Controls
+
+Encryption: This process converts readable data into an encoded, unreadable format (ciphertext) to ensure the confidentiality of sensitive information until it is decrypted.
+Authentication: This verifies the identity of a user or system, often through usernames and passwords, or more advanced methods like multi-factor authentication (MFA) and biometrics.
+Authorization: This grants access to specific resources within a system, ensuring that only individuals with the necessary permissions can access certain data or functionalities.
