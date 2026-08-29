@@ -1,0 +1,3 @@
+Hardware Firewalls: These are physical devices that inspect data packets before they enter the network, offering a basic defense against threats.
+Software Firewalls: These are programs installed on computers or servers that perform the same functions as hardware firewalls but are more cost-effective and space-saving, though they add processing burden.
+Cloud-based Firewalls (FaaS): Offered by cloud service providers, these software firewalls protect an organization's network and cloud assets by filtering incoming traffic based on configured rules
