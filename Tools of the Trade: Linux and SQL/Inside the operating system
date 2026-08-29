@@ -1,0 +1,12 @@
+Booting the Computer
+
+When you press the power button, the BIOS (Basic Input/Output System) or UEFI (Unified Extensible Firmware Interface) microchip is activated.
+These chips contain booting instructions that load a special program called the bootloader, which then starts the operating system.
+User Interaction with the OS
+
+When you use an application, it sends your request to the operating system.
+The OS interprets this request and directs it to the appropriate hardware component, which then sends information back to the OS and subsequently to the application.
+Example: Using a Calculator
+
+Clicking on the calculator application and typing numbers sends a request to the OS.
+The OS sends the calculation to the CPU (Central Processing Unit), which performs the work and sends the answer back to the OS to be displayed in the application.
