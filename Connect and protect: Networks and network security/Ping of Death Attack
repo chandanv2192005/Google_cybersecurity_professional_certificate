@@ -1,0 +1,1 @@
+versized ICMP Packet: This DoS attack involves sending an oversized ICMP packet (larger than 64 kilobytes) to a vulnerable system. This abnormally large packet overloads the system, leading to a crash.
