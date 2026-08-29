@@ -1,0 +1,12 @@
+OS as a Resource Manager
+
+The OS is responsible for managing the computer's resources, such as memory, storage, and CPU bandwidth, to ensure efficient operation.
+It balances the allocation and de-allocation of resources among various programs, tasks, and processes that constantly compete for them.
+Analogy of Energy and Orchestra
+
+The concept of energy is used to illustrate resource management, where different tasks require varying amounts of energy (e.g., antivirus scan uses more energy than a calculator app).
+The OS is likened to an orchestra conductor, directing the flow of music (resources) to ensure all instruments (computer components) work harmoniously.
+Practical Implications for Analysts
+
+As a user, much of the OS's resource management is hidden, but the task manager provides visibility into CPU and memory usage by different tasks.
+Understanding resource usage is crucial for analysts to troubleshoot applications and respond to incidents, such as identifying malware that might be consuming excessive resources.
