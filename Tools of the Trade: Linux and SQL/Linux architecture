@@ -1,0 +1,12 @@
+The User and Applications
+
+The user is the individual interacting with the computer and initiating tasks. Linux is a multi-user system, allowing multiple users to access resources simultaneously.
+Applications are programs designed to perform specific tasks, such as a word processor or text editor like Nano. These are often distributed through package managers.
+The Shell and Filesystem Hierarchy Standard (FHS)
+
+The shell acts as a command-line interpreter (CLI), processing commands from the user and outputting results, serving as the primary way to communicate with the system.
+The Filesystem Hierarchy Standard (FHS) organizes data within the Linux OS, much like a filing cabinet, ensuring data can be easily located and accessed.
+The Kernel and Hardware
+
+The kernel is the central component of Linux, responsible for managing processes and memory. It communicates with the hardware to execute commands and uses drivers to facilitate application tasks, optimizing resource allocation and system speed.
+Hardware refers to the physical components of a computer, such as the CPU, mouse, and keyboard, which are distinct from software applications.
