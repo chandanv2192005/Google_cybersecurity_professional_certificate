@@ -1,0 +1,5 @@
+Types of Packet Sniffing and Prevention
+
+Passive packet sniffing involves reading data packets in transit without altering them, similar to someone reading mail without permission.
+Active packet sniffing involves manipulating data packets, such as redirecting them or changing their content, akin to someone intercepting and altering mail before delivery.
+To prevent malicious packet sniffing, it's recommended to use a VPN for data encryption, ensure websites use HTTPS, and avoid unprotected public Wi-Fi networks.
