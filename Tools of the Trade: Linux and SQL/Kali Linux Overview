@@ -1,0 +1,12 @@
+Kali Linux Overview
+
+Kali Linux is specifically built for cybersecurity tasks like penetration testing and digital forensics.
+It comes pre-installed with many tools and should be used in a virtual machine to prevent system damage and allow for state reversion.
+Penetration Testing with Kali Linux
+
+Penetration testing simulates attacks to find system vulnerabilities.
+Kali Linux includes tools like Metasploit for exploiting vulnerabilities, Burp Suite for web application testing, and John the Ripper for password cracking.
+Digital Forensics with Kali Linux
+
+Digital forensics involves collecting and analyzing data after a security incident.
+Kali Linux offers tools such as tcpdump for capturing network traffic, Wireshark for analyzing network traffic, and Autopsy for analyzing hard drives and smartphones.
