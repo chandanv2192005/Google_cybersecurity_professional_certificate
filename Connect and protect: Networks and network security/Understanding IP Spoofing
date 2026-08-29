@@ -1,0 +1,11 @@
+IP spoofing involves an attacker changing the source IP of a data packet to impersonate an authorized system, gaining unauthorized network access.
+This allows the attacker to bypass firewall rules and communicate with target computers as if they were a trusted internal system.
+Common IP Spoofing Attacks
+
+On-path attacks: The attacker positions themselves between two communicating devices, intercepts data, and learns IP and MAC addresses to impersonate either device.
+Replay attacks: A malicious actor intercepts a data packet and either delays it to cause connection issues or repeats it later to impersonate an authorized user.
+Smurf attacks: A combination of a Distributed Denial of Service (DDoS) attack and IP spoofing, where an attacker floods an authorized user's IP address with packets, overwhelming the target.
+Protecting Against IP Spoofing
+
+Encryption: Always encrypt data transfers to prevent malicious actors from reading sensitive information.
+Firewall Configuration: Configure firewalls to reject incoming traffic from the internet that has the same IP address as the local private network, as this indicates a potential spoofing attempt.
