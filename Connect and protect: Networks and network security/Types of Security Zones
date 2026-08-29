@@ -1,0 +1,2 @@
+Uncontrolled Zone: This refers to any network outside an organization's control, such as the internet.
+Controlled Zone: This is a subnet designed to protect the internal network from the uncontrolled zone, containing various sub-zones like the Demilitarized Zone (DMZ) and the Restricted Zone.
