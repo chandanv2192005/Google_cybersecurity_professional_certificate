@@ -1,0 +1,2 @@
+Forward proxy servers regulate and approve outgoing requests from internal users, hiding their IP addresses.
+Reverse proxy servers manage incoming traffic from external parties, protecting internal web servers and their confidential data
