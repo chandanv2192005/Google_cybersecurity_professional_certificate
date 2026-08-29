@@ -1,0 +1,12 @@
+Securing Cloud Networks
+
+Many organizations use cloud network services, requiring security analysts to secure these remote data centers in addition to on-premises networks.
+Cloud networks host company data and applications, offering on-demand storage, processing power, and data analytics, similar to regular web servers.
+Cloud Network Hardening
+
+Cloud servers need proper maintenance through security hardening procedures, even though cloud service providers host them.
+A key distinction in cloud network hardening is using a server baseline image to detect unverified changes, which could indicate an intrusion.
+Shared Responsibility and Data Separation
+
+Cloud service providers share security responsibilities with organizations, but organizations must still implement their own security measures.
+Data and applications on a cloud network should be separated by service category, such as keeping older applications separate from newer ones, and internal functions separate from front-end applications.
